@@ -1,0 +1,21 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Harishhari0525/cs_plugins",
+        "fileSize": 11827,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Yoo"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Series"
+        ],
+        "version": 1,
+        "internalName": "TamilMVProvider",
+        "description": "Telugu, Tamil, Malayalam, Kannada, Hindi & Web Series torrents from 1TamilMV.se",
+        "url": "https://raw.githubusercontent.com/Harishhari0525/cs_plugins/builds/TamilMVProvider.cs3",
+        "name": "TamilMVProvider"
+    }
+]
