@@ -8,7 +8,7 @@ version = 1
 
 cloudstream {
     description = "Telugu, Tamil, Malayalam, Kannada, Hindi & Web Series torrents from 1TamilMV.se"
-    authors = listOf("YouKnowWho")
+    authors = listOf("Yo")
     language = "en"
     status = 1
     tvTypes = listOf("Movie", "Series")
