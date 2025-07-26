@@ -1,0 +1,8 @@
+{
+  "name": "TamilMv Repo",
+  "description": "All languages torrents",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/harishhari0525/cs_plugins/builds/plugins.json"
+  ]
+}
